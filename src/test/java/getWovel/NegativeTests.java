@@ -34,13 +34,7 @@ public class NegativeTests {
                 .body(equalTo(expectedValue));
     }
 
-//    @Test
-//    public void negativeOnlyConsonantChar() {
-//        Response response = RestAssured.get("/gsas");
-//        response.then()
-//                .statusCode(200)
-//                .body(equalTo("ss"));
-//    }
+
 //
 //    @Test
 //    public void negativeEmptyChar() {
