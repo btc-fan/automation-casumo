@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"cff08c5eedec176d5629134341c5c470","name":"getWovel.PositiveTests","statistic":{"failed":0,"broken":7,"skipped":0,"passed":0,"unknown":0,"total":7}},{"uid":"05ab9835f8551b4c450becafd6639972","name":"getWovel.NegativeTests","statistic":{"failed":0,"broken":6,"skipped":0,"passed":0,"unknown":0,"total":6}}]}
